@@ -12,8 +12,18 @@ html
     script(src='cordova.js')
     // your app's js
     script(src='js/app.js')
-  body(ng-app='SpamTrek')
+    script(src='js/asset.js')
+    script(src='js/filter.js')
+    script(src='js/game.js')
+    script(src='js/mailbox.js')
+    script(src='js/main_controller.js')
+    script(src='js/spam.js')
+  body(ng-app='SpamTrek', ng-controller='MainCtrl')
     ion-pane
       ion-header-bar.bar-stable
+        button.button.button-clear {{clock}} s
         h1.title SpamTrek
+        button.button(ng-click='start()') Start
+        button.button(ng-click='stop()') Stop
       ion-content
+        canvas#canvas

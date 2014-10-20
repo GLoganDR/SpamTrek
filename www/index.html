@@ -12,13 +12,24 @@
     <script src="cordova.js"></script>
     <!-- your app's js-->
     <script src="js/app.js"></script>
+    <script src="js/asset.js"></script>
+    <script src="js/filter.js"></script>
+    <script src="js/game.js"></script>
+    <script src="js/mailbox.js"></script>
+    <script src="js/main_controller.js"></script>
+    <script src="js/spam.js"></script>
   </head>
-  <body ng-app="SpamTrek">
+  <body ng-app="SpamTrek" ng-controller="MainCtrl">
     <ion-pane>
       <ion-header-bar class="bar-stable">
+        <button class="button button-clear">{{clock}} s</button>
         <h1 class="title">SpamTrek</h1>
+        <button ng-click="start()" class="button">Start</button>
+        <button ng-click="stop()" class="button">Stop</button>
       </ion-header-bar>
-      <ion-content></ion-content>
+      <ion-content>
+        <canvas id="canvas"></canvas>
+      </ion-content>
     </ion-pane>
   </body>
 </html>

@@ -1,6 +1,6 @@
 (function(){
   'use strict';
-  angular.module('StarTrek', ['ionic'])
+  angular.module('SpamTrek', ['ionic'])
 
   .run(function($ionicPlatform){
     $ionicPlatform.ready(function(){
