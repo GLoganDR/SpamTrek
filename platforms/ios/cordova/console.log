@@ -1,0 +1,50 @@
+2014-10-20 13:54:42.398 SpamTrek[26205:481531] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/loganrichardson/Library/Developer/CoreSimulator/Devices/C68C3195-C81F-48BF-A262-E5E0FB21CD34/data/Containers/Data/Application/C12722D1-1C68-470D-955F-6A9B8D19A2E2/Library/Cookies/Cookies.binarycookies
+2014-10-20 13:54:42.949 SpamTrek[26205:481531] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-20 13:54:42.949 SpamTrek[26205:481531] Multi-tasking -> Device: YES, App: YES
+2014-10-20 13:54:43.020 SpamTrek[26205:481531] Unlimited access to network resources
+2014-10-20 13:54:44.026 SpamTrek[26205:481531] [CDVTimer][keyboard] 0.117004ms
+2014-10-20 13:54:44.026 SpamTrek[26205:481531] [CDVTimer][TotalPluginStartup] 0.418007ms
+2014-10-20 13:54:44.821 SpamTrek[26205:481531] Resetting plugins due to page load.
+2014-10-20 13:54:44.902 SpamTrek[26205:481531] Failed to load webpage with error: The network connection was lost.
+2014-10-20 15:34:05.162 SpamTrek[29564:534665] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/loganrichardson/Library/Developer/CoreSimulator/Devices/C68C3195-C81F-48BF-A262-E5E0FB21CD34/data/Containers/Data/Application/89972B76-789B-46CC-A268-BD14BCDFB0B1/Library/Cookies/Cookies.binarycookies
+2014-10-20 15:34:05.312 SpamTrek[29564:534665] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-20 15:34:05.313 SpamTrek[29564:534665] Multi-tasking -> Device: YES, App: YES
+2014-10-20 15:34:05.319 SpamTrek[29564:534665] Unlimited access to network resources
+2014-10-20 15:34:05.404 SpamTrek[29564:534665] [CDVTimer][keyboard] 0.059962ms
+2014-10-20 15:34:05.404 SpamTrek[29564:534665] [CDVTimer][TotalPluginStartup] 0.239015ms
+2014-10-20 15:34:06.231 SpamTrek[29564:534665] Resetting plugins due to page load.
+2014-10-20 15:34:06.479 SpamTrek[29564:534665] Finished load of: http://192.168.11.40:5500/
+2014-10-21 10:08:53.149 SpamTrek[33441:626685] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/loganrichardson/Library/Developer/CoreSimulator/Devices/C68C3195-C81F-48BF-A262-E5E0FB21CD34/data/Containers/Data/Application/CE9B827F-30AF-4065-BAF2-D1BE26C9F640/Library/Cookies/Cookies.binarycookies
+2014-10-21 10:08:53.907 SpamTrek[33441:626685] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 10:08:53.907 SpamTrek[33441:626685] Multi-tasking -> Device: YES, App: YES
+2014-10-21 10:08:54.066 SpamTrek[33441:626685] Unlimited access to network resources
+2014-10-21 10:08:55.334 SpamTrek[33441:626685] [CDVTimer][keyboard] 0.079036ms
+2014-10-21 10:08:55.334 SpamTrek[33441:626685] [CDVTimer][TotalPluginStartup] 0.297010ms
+2014-10-21 10:08:57.611 SpamTrek[33441:626685] Resetting plugins due to page load.
+2014-10-21 10:09:00.650 SpamTrek[33441:626685] Finished load of: http://192.168.11.40:5500/
+2014-10-21 10:09:01.948 SpamTrek[33441:626685] THREAD WARNING: ['Device'] took '40.385986' ms. Plugin should use a background thread.
+2014-10-21 10:11:13.937 SpamTrek[33817:643427] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/loganrichardson/Library/Developer/CoreSimulator/Devices/C68C3195-C81F-48BF-A262-E5E0FB21CD34/data/Containers/Data/Application/A4AF9F5E-6200-4F25-8F38-24D59C02564A/Library/Cookies/Cookies.binarycookies
+2014-10-21 10:11:14.144 SpamTrek[33817:643427] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 10:11:14.145 SpamTrek[33817:643427] Multi-tasking -> Device: YES, App: YES
+2014-10-21 10:11:14.193 SpamTrek[33817:643427] Unlimited access to network resources
+2014-10-21 10:11:14.364 SpamTrek[33817:643427] [CDVTimer][keyboard] 0.070989ms
+2014-10-21 10:11:14.364 SpamTrek[33817:643427] [CDVTimer][TotalPluginStartup] 0.291049ms
+2014-10-21 10:11:14.410 SpamTrek[33817:643427] Resetting plugins due to page load.
+2014-10-21 10:11:14.868 SpamTrek[33817:643427] Finished load of: http://192.168.11.40:5500/
+2014-10-21 10:14:34.857 SpamTrek[34131:661911] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/loganrichardson/Library/Developer/CoreSimulator/Devices/C68C3195-C81F-48BF-A262-E5E0FB21CD34/data/Containers/Data/Application/F3A664DF-C22E-4858-96FF-A4AA233BA9FD/Library/Cookies/Cookies.binarycookies
+2014-10-21 10:14:35.024 SpamTrek[34131:661911] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 10:14:35.025 SpamTrek[34131:661911] Multi-tasking -> Device: YES, App: YES
+2014-10-21 10:14:35.030 SpamTrek[34131:661911] Unlimited access to network resources
+2014-10-21 10:14:35.625 SpamTrek[34131:661911] [CDVTimer][keyboard] 0.060022ms
+2014-10-21 10:14:35.625 SpamTrek[34131:661911] [CDVTimer][TotalPluginStartup] 0.227988ms
+2014-10-21 10:14:35.665 SpamTrek[34131:661911] Resetting plugins due to page load.
+2014-10-21 10:14:36.207 SpamTrek[34131:661911] Finished load of: http://192.168.11.40:5500/
+2014-10-21 12:22:13.173 SpamTrek[37873:1698539] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/loganrichardson/Library/Developer/CoreSimulator/Devices/8C7AC80E-AB09-4698-B632-68341DCBD72F/data/Containers/Data/Application/EFDF4BAC-52B7-402B-9F87-0514FE01F350/Library/Cookies/Cookies.binarycookies
+2014-10-21 12:22:13.563 SpamTrek[37873:1698539] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 12:22:13.564 SpamTrek[37873:1698539] Multi-tasking -> Device: YES, App: YES
+2014-10-21 12:22:13.877 SpamTrek[37873:1698539] Unlimited access to network resources
+2014-10-21 12:22:17.179 SpamTrek[37873:1698539] [CDVTimer][keyboard] 0.099003ms
+2014-10-21 12:22:17.179 SpamTrek[37873:1698539] [CDVTimer][TotalPluginStartup] 0.368953ms
+2014-10-21 12:22:18.863 SpamTrek[37873:1698539] Resetting plugins due to page load.
+2014-10-21 12:22:20.393 SpamTrek[37873:1698539] Finished load of: http://192.168.11.40:5500/
+2014-10-21 12:22:20.527 SpamTrek[37873:1698539] THREAD WARNING: ['Device'] took '120.732178' ms. Plugin should use a background thread.
